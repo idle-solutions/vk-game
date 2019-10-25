@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     'rest_framework',
 
-    'todos',
+    'todos'
 
 ]
 
@@ -88,7 +88,7 @@ WSGI_APPLICATION = 'todo_api.wsgi.application'
 
 DATABASES = {
    'default': {
-      'ENGINE': 'django_mongodb_engine',
+      'ENGINE': 'djongo',
       'NAME': 'vk-game',
    }
 }
