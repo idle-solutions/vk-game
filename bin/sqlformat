@@ -1,4 +1,4 @@
-#!/Users/admin/projects/vk-game/bin/python
+#!/Users/admin/projects/vk-game/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
